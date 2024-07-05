@@ -16,7 +16,5 @@ Here are some ideas to get you started:
 -->
 ![tngjs3327's GitHub stats](https://github-readme-stats.vercel.app/api?username=tngjs3327&show_icons=true&theme=radical)<br/>
 
-## My Skills
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tngjs3327&layout=compact)<br/>
 
